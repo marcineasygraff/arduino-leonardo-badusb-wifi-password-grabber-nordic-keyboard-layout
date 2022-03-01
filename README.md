@@ -1,5 +1,4 @@
-# arduino-leonardo-badusb-wifi-password-grabber-nordic-keyboard-layout
-Arduino Leonardo | WiFi Password Grabber (Nordic Keyboard Layout)
+# Arduino Leonardo | WiFi Password Grabber (Nordic Keyboard Layout)
 
 Usage:
 Upload the .ino file to your Leonardo, remember to change the url.
